@@ -28,6 +28,6 @@ Uygulamayı çalıştırdıktan sonra, farklı özelliklerin nasıl kullanıldı
 Bu proje açık kaynaklıdır ve her türlü katkıya açıktır. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa lütfen bir konu açarak paylaşın veya bir pull isteği gönderin.
 
 
-![Uygulama Ekran Görüntüsü](C:\Users\Betus\Desktop\egitim_uyg\kotlin_bootcamp\TasarimCalismasi\app\src\main\res\image\foto1)
-![Uygulama Ekran Görüntüsü](C:\Users\Betus\Desktop\egitim_uyg\kotlin_bootcamp\TasarimCalismasi\app\src\main\res\image\foto2)
+![Uygulama Ekran Görüntüsü](\egitim_uyg\kotlin_bootcamp\TasarimCalismasi\app\src\main\res\image\foto1)
+![Uygulama Ekran Görüntüsü](egitim_uyg\kotlin_bootcamp\TasarimCalismasi\app\src\main\res\image\foto2)
 
