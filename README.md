@@ -27,7 +27,7 @@ Uygulamayı çalıştırdıktan sonra, farklı özelliklerin nasıl kullanıldı
 
 Bu proje açık kaynaklıdır ve her türlü katkıya açıktır. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa lütfen bir konu açarak paylaşın veya bir pull isteği gönderin.
 
-
-![Uygulama Ekran Görüntüsü](/image/foto1.jpg)
-![Uygulama Ekran Görüntüsü](/image/foto2.jpg)
+## Proje Görseli:
+![Uygulama Ekran Görüntüsü](./app/src/main/res/image/foto1.jpg)
+![Uygulama Ekran Görüntüsü](./app/src/main/res/image/foto2.jpg)
 
