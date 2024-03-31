@@ -30,4 +30,5 @@ Bu proje açık kaynaklıdır ve her türlü katkıya açıktır. Herhangi bir h
 ## Proje Görseli:
 ![Uygulama Ekran Görüntüsü](./app/src/main/res/image/foto1.jpg)
 ![Uygulama Ekran Görüntüsü](./app/src/main/res/image/foto2.jpg)
+![Uygulama Ekran Görüntüsü](./app/src/main/res/image/foto3.jpg)
 
